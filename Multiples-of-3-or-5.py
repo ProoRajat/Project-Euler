@@ -14,6 +14,3 @@ def retunr_sum(num):
 
 number = int(input("Enter a number: "))
 print(retunr_sum(number))
-
-
-
